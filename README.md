@@ -51,7 +51,7 @@ This project implements the Leaky Bucket algorithm for bandwidth monitoring and 
     Total allowed data: 582 bytes
     Total denied data: 1505 bytes
 
-![Leaky Bucket Live Usage Visualization]![alt text](image.png)
+##[Leaky Bucket Live Usage Visualization]![alt text](image.png)
 
 ## Customization
 
@@ -62,3 +62,4 @@ This project implements the Leaky Bucket algorithm for bandwidth monitoring and 
 
 - [GeeksforGeeks: Leaky Bucket Algorithm](https://www.geeksforgeeks.org/computer-networks/leaky-bucket-algorithm/)
 - [GitHub: Leaky Bucket Python Example](https://github.com/sserkanml/leaky-bucket-algorithm)
+
