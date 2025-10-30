@@ -44,16 +44,16 @@ text
 ## Example Output
 
 Packet of 38 bytes allowed.
-...
+:
+:
 Packet of 56 bytes denied. Insufficient tokens.
 Packet of 7 bytes allowed.
 
 Total allowed data: 798 bytes
 Total denied data: 1058 bytes
 
-text
 
-![Token Bucket Live Usage Visualization](image.png)
+![Token Bucket Live Usage Visualization](image.png.txt)
 
 ## Customization
 
@@ -64,3 +64,4 @@ text
 
 - [GeeksforGeeks: Token Bucket Algorithm](https://www.geeksforgeeks.org/computer-networks/token-bucket-algorithm/)
 - [Token Bucket Algorithm Example on GitHub](https://github.com/bbeck/token-bucket)
+
